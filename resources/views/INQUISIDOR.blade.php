@@ -49,6 +49,18 @@
                 font-size: 84px;
             }
 
+            .links > a {
+                color: #fff;
+                padding: 0 25px;
+                font-size: 12px;
+                font-weight: 600;
+                letter-spacing: .1rem;
+                text-decoration: none;
+                text-transform: uppercase;
+            }
+
+            .m-b-md {
+                margin-bottom: 30px;
             }
         </style>
     </head>
@@ -67,7 +79,12 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                   INQUISIDOR
+                    INQUISIDOR
+                </div>
+
+                <div class="links">
+                    <a href="OSO">OSO</a>
+                    <a href="/">X PROJECT</a>
                 </div>
             </div>
         </div>
