@@ -4,10 +4,10 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('OSO', function () {
-    return view('OSO');
+Route::get('INQUISIDORES', function () {
+    return view('INQUISIDORES');
 });
 
-Route::get('INQUISIDOR', function () {
-    return view('INQUISIDOR');
+Route::get('INQUISICION', function () {
+    return view('INQUISICION');
 });

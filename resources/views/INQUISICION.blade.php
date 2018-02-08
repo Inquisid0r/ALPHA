@@ -5,12 +5,10 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>INQUISIDOR</title>
+        <title>INQUISICION</title>
 
-        <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
 
-        <!-- Styles -->
         <style>
             html, body {
                 background-color: #000;
@@ -79,13 +77,13 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    INQUISIDOR
+                    INQUISICION
                 </div>
 
                 <div class="links">
-                    <a href="OSO">OSO</a>
                     <a href="/">X PROJECT</a>
-                </div>
+                    <a href="INQUISIDORES">INQUISIDORES</a>
+                </div>       <div class="links">
             </div>
         </div>
     </body>

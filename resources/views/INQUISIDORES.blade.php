@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>OSO</title>
+        <title>INQUISIDORES</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -79,13 +79,13 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    OSO
+                    INQUISIDORES
                 </div>
 
                 <div class="links">
+                    <a href="INQUISICION">INQUISICION</a>
                     <a href="/">X PROJECT</a>
-                    <a href="INQUISIDOR">INQUISIDOR</a>
-                </div>       <div class="links">
+                </div>
             </div>
         </div>
     </body>

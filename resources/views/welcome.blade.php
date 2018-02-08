@@ -7,10 +7,8 @@
 
         <title>X PROJECT</title>
 
-        <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
 
-        <!-- Styles -->
         <style>
             html, body {
                 background-color: #000;
@@ -83,8 +81,8 @@
                 </div>
 
                 <div class="links">
-                    <a href="OSO">OSO</a>
-                    <a href="INQUISIDOR">INQUISIDOR</a>
+                    <a href="INQUISICION">INQUISICION</a>
+                    <a href="INQUISIDORES">INQUISIDORES</a>
                 </div>
             </div>
         </div>
