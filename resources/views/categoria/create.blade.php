@@ -1,4 +1,4 @@
-@extends('layaut.admin')
+@extends('layouts.admin')
 @section('contenido')
-	<h3>Create</h3>h3>
+	<h3>Create</h3>
 @stop
