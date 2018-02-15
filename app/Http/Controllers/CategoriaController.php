@@ -28,13 +28,13 @@ class CategoriaController extends Controller
     		->where ('condition','=','1')
     		->orderBy ('idcategoria','desc')
     		->paginate (7);
-    		return view('categoria.index',["categorias"=>$categorias,"searchText"=>$query]);
+    		return view('almacen.categoria.index',["categorias"=>$categorias,"searchText"=>$query]);
     	}
     }
 
     public function create()
     {
-    	return view("categoria.create");
+    	return view("almacen.categoria.create");
     }
 
     public function store(CategoriaFormRequest $request)
