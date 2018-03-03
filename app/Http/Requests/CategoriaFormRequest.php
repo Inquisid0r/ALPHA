@@ -4,7 +4,7 @@ namespace XPROJECT\Http\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
 
-class CategoriaFormRecuest extends FormRequest
+class CategoriaFormRequest extends FormRequest
 {
     /**
      * Determine if the user is authorized to make this request.
